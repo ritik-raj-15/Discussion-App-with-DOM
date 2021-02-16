@@ -1,12 +1,18 @@
 #right{
  padding: 40px;
  padding-left: 100px;
- height: 90vh;
+ height: 100vh;
 }
 #displayQuiz{
-    height: 79vh;
+    height: 89vh;
     overflow: auto;
 }
 #formInput{
     overflow: auto;
+}
+.response{
+    margin-top: 8%;
+}
+#section-response{
+    margin-top: 5%;
 }
